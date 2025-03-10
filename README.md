@@ -11,3 +11,4 @@ Ha alacsonyabb RAM-használatot szeretnél, használd a [Wise Memory Optimizer](
 ---
 Ezekkel az eszközökkel egyszerűen növelheted a Windows teljesítményét anélkül, hogy komolyabb rendszerbeállításokat kellene módosítanod.
 
+Ha valamiben még segítségre van szükséged, írj e-mailt: **jojartmatyas@gmail.com**
