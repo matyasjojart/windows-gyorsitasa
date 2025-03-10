@@ -1,14 +1,22 @@
-# Windows Gyorsítása
+# 🚀 Windows Gyorsítása
 
-Ez a rövid útmutató segít optimalizálni a Windows rendszered teljesítményét felesleges szolgáltatások kikapcsolásával és memóriahasználat csökkentésével.
-
-## 1. Felesleges szolgáltatások kikapcsolása
-Töltsd le a [ShutUp10](https://www.oo-software.com/en/shutup10) programot, és kapcsold ki a szükségtelen funkciókat a gyorsabb rendszer érdekében.
-
-## 2. Memóriahasználat csökkentése
-Ha alacsonyabb RAM-használatot szeretnél, használd a [Wise Memory Optimizer](https://www.wisecleaner.com/wise-memory-optimizer.html) alkalmazást.
+Optimalizáld a Windows teljesítményét felesleges szolgáltatások kikapcsolásával és memóriahasználat csökkentésével! 🔧💡
 
 ---
-Ezekkel az eszközökkel egyszerűen növelheted a Windows teljesítményét anélkül, hogy komolyabb rendszerbeállításokat kellene módosítanod.
 
-Ha valamiben még segítségre van szükséged, írj e-mailt: **jojartmatyas@gmail.com**
+## 🛑 1. Felesleges szolgáltatások kikapcsolása
+✅ Töltsd le a [ShutUp10](https://www.oo-software.com/en/shutup10) programot.
+✅ Kapcsold ki a szükségtelen funkciókat a gyorsabb rendszer érdekében.
+
+---
+
+## 🧠 2. Memóriahasználat csökkentése
+💾 Ha alacsonyabb RAM-használatot szeretnél:
+🔹 Használd a [Wise Memory Optimizer](https://www.wisecleaner.com/wise-memory-optimizer.html) alkalmazást.
+
+---
+
+✨ Ezekkel az eszközökkel könnyedén növelheted a Windows teljesítményét anélkül, hogy mélyebb rendszerbeállításokba kellene nyúlnod! 🚀
+
+📩 **Ha további segítségre van szükséged, írj e-mailt:** [jojartmatyas@gmail.com](mailto:jojartmatyas@gmail.com)
+
